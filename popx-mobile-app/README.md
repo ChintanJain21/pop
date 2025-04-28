@@ -16,6 +16,7 @@ It allows users to **register**, **login**, and manage their **account settings*
 
 ---
 
+
 ## 📂 Project Structure
 
 ```bash
@@ -33,3 +34,27 @@ src/
 ├── App.jsx          # Main application routes
 ├── main.jsx         # Vite entry file
 └── index.css        # Tailwind CSS setup
+```
+## 🚀 Installation & Setup
+1. Clone the repository
+   ```bash
+   git clone https://github.com/ChintanJain21/pop.git
+   cd pop
+   ```
+2. Install dependencies
+   ```bash
+   npm install
+   ```
+3. Run the app locally
+   ```bash
+   npm run dev
+   ```
+ ## 👏 Acknowledgments
+Built with love for learning, projects, and UI/UX practice.
+
+Special thanks to Tailwind CSS for making styling fun.
+
+
+
+
+
